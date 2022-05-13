@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/CSG_HelloSunshine_Pno_Loop.wav-a1b0a0dfaac2496ab6aaf1b0b36ee6a4.sample"
+
+[deps]
+
+source_file="res://assets/sounds/CSG_HelloSunshine_Pno_Loop.wav"
+dest_files=[ "res://.import/CSG_HelloSunshine_Pno_Loop.wav-a1b0a0dfaac2496ab6aaf1b0b36ee6a4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

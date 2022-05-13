@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/CSG_HelloSunshine_noPer_Loop.wav-01d314385b2f9797a27e08a92e7dd554.sample"
+
+[deps]
+
+source_file="res://assets/sounds/CSG_HelloSunshine_noPer_Loop.wav"
+dest_files=[ "res://.import/CSG_HelloSunshine_noPer_Loop.wav-01d314385b2f9797a27e08a92e7dd554.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/CSG_Simple_UI_01.wav-59539f455597341217c1b450e03634c6.sample"
+
+[deps]
+
+source_file="res://assets/sounds/CSG_Simple_UI_01.wav"
+dest_files=[ "res://.import/CSG_Simple_UI_01.wav-59539f455597341217c1b450e03634c6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
